@@ -1,0 +1,21 @@
+{
+  "name": "clean-dark-theme",
+  "displayName": "clean-dark-theme",
+  "description": "Clean Dark Theme is a minimalist and modern dark theme designed for developers who prefer a sleek, distraction-free coding environment. With carefully chosen colors that provide excellent contrast and readability, this theme is perfect for long coding sessions, reducing eye strain while maintaining clarity. Whether you're working with JavaScript, Python, HTML, or any other language, the Clean Dark Theme ensures your code looks sharp and consistent. Elevate your coding experience with a theme that balances aesthetics and functionality.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Clean Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Clean Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
