@@ -1,16 +1,27 @@
-# clean-dark-theme README
+## Clean Dark Theme
 
-## Working with Markdown
+Welcome to Clean Dark Theme – a minimalist, distraction-free dark theme for Visual Studio Code. Designed with carefully curated colors for optimal contrast and readability, this theme offers a sleek and modern coding experience while reducing eye strain during long coding sessions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Features
+Balanced Colors: Carefully selected colors for enhanced readability and aesthetics.
+Clarity: Sharp contrast for easy identification of code elements.
+Minimalist Design: A clean and simple interface, perfect for focused work.
+Language Support: Works well with popular programming languages like JavaScript, Python, HTML, CSS, and more.
+Installation
+Open Visual Studio Code.
+Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+Search for "Clean Dark Theme."
+Click Install and reload VS Code to apply the theme.
+How to Use
+After installing, navigate to File > Preferences > Color Theme (or use Ctrl+K Ctrl+T).
+Select "Clean Dark Theme" from the list of available themes.
+Screenshots
+<!-- (Optional: Add screenshots of your theme in action to showcase its look and feel.) -->
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Contributing
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the GitHub repository.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+For more information
+Visual Studio Code Marketplace
+VS Code Theme Documentation
+Enjoy coding with the Clean Dark Theme!
